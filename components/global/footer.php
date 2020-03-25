@@ -2,6 +2,6 @@
 
 <footer class="hola-footer">
     <div class="hola-container" style="text-align: right">
-        <div>Copyright © 2015 - 2020 wendster.</div>
+        <div>Modify it to what you want.</div>
     </div>
 </footer>
