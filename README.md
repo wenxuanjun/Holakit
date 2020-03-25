@@ -1,6 +1,6 @@
-# Holakit
-
 ![Screenshot](https://raw.githubusercontent.com/wenxuanjun/Holakit/master/screenshot.png)
+
+# Holakit
 
 这是一款基于[iHola](https://ihola.one)团队的CSS库Holakit开发的极简高效的Typecho主题
 
